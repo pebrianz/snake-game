@@ -54,9 +54,6 @@ function draw() {
 
 function mouseClicked() {
   down = !down
-for(let i = 0; i < 5; i++){
-  s.grow()
-}
 }
 
 
